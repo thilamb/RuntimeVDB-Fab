@@ -25,3 +25,8 @@ RuntimeVDB is primarily intended for industrial and scientific data visualizatio
  
 ## Development Status
 As this plugin is experimental, development is ongoing and improvements will continue until it reaches Beta status. Constructive feedback, bug reports, comments, and suggestions are welcome. Please use [Issues](https://github.com/thilamb/RuntimeVDB-Fab/issues) to reach out.
+
+
+## My other plugins
+* [VDB / SVT Helper](https://www.fab.com/ja/listings/2cc1bd5a-40df-49a2-bd52-42fa06b114dc), available on Fab / Marketplace
+* [Unreal-VDB](https://github.com/thilamb/unreal-vdb), a NanoVDB code plugin
