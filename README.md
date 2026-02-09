@@ -28,5 +28,5 @@ As this plugin is experimental, development is ongoing and improvements will con
 
 
 ## My other plugins
-* [VDB / SVT Helper](https://www.fab.com/ja/listings/2cc1bd5a-40df-49a2-bd52-42fa06b114dc), available on Fab / Marketplace
+* [VDB / SVT Helper](https://www.fab.com/listings/2cc1bd5a-40df-49a2-bd52-42fa06b114dc), available on Fab / Marketplace
 * [Unreal-VDB](https://github.com/thilamb/unreal-vdb), a NanoVDB code plugin
