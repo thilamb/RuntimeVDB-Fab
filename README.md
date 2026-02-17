@@ -1,6 +1,6 @@
 # RuntimeVDB
 
-RuntimeVDB is an Unreal Engine plugin, available on Fab / Marketplace.
+RuntimeVDB is an Unreal Engine plugin, [available on Fab / Marketplace](https://www.fab.com/listings/12fd5458-5d7f-4123-8614-138a689c030b).
 
 <img width="1920" height="1080" alt="Viewer_HD_01" src="https://github.com/user-attachments/assets/de7a352b-f20c-4197-a7ed-78e58c01c3b9" />
 
