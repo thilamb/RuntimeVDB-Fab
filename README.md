@@ -6,9 +6,9 @@ RuntimeVDB is an Unreal Engine plugin, [available on Fab / Marketplace](https://
 
 ## Introduction
 
-RuntimeVDB is an **experimental** plugin that asynchronously imports, caches, and streams OpenVDB files at runtime, and renders them using Unreal Engine’s native Heterogeneous Volume component. All core functionality is exposed to Blueprints, enabling precise setup in the Editor and full runtime control.
+RuntimeVDB is an Unreal plugin that asynchronously imports, caches, and streams OpenVDB files at runtime, and renders them using Unreal Engine’s native Heterogeneous Volume component. All core functionality is exposed through both Blueprint and C++ APIs, enabling precise Editor setup and seamless integration into code-driven runtime workflows.
 
-RuntimeVDB is primarily intended for industrial and scientific data visualization rather than game development.
+RuntimeVDB is primarily intended for industrial and scientific data visualization.
 
 ## Features
 * Imports, caches, streams, and displays OpenVDB files at runtime only
@@ -24,7 +24,7 @@ RuntimeVDB is primarily intended for industrial and scientific data visualizatio
  <img width="1920" height="1080" alt="BlueprintFunctions" src="https://github.com/user-attachments/assets/620b492c-aef5-4360-af62-83a31a48190f" />
  
 ## Development Status
-As this plugin is experimental, development is ongoing and improvements will continue until it reaches Beta status. Constructive feedback, bug reports, comments, and suggestions are welcome. Please use [Issues](https://github.com/thilamb/RuntimeVDB-Fab/issues) to reach out.
+Constructive feedback, bug reports, comments, and suggestions are welcome. Please use [Issues](https://github.com/thilamb/RuntimeVDB-Fab/issues) to reach out.
 
 
 ## My other plugins
